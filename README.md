@@ -48,7 +48,7 @@
   + demo: [http://poet.serverless.fit](http://poet.serverless.fit)
 
 # R
-  + React.js
++ **React.js**
   + demo: [http://reactjs.serverless.fit](http://reactjs.serverless.fit)
 
 # S
